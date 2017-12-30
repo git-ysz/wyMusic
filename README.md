@@ -1,2 +1,2 @@
-# wypai
-网易pai接口测试
+# wyapi
+网易api接口测试
